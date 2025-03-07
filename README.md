@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://tempmaildetector.com/?utm_source=github-blocklist"><img src="https://tempmaildetector.com/images/gh-logo.png" width="250"/></a>
+  <a href="http://tempmaildetector.com/?utm_source=github-blocklist"><img src="https://assets.tempmaildetector.com/logo.svg" width="250"/></a>
 </p>
 
 This GitHub Repo contains a one month delayed, but regular dump of temporary disposable email addresses within the [Temp Mail Detector](http://tempmaildetector.com/?utm_source=github-blocklist) database.
